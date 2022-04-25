@@ -9,7 +9,7 @@ In this project, you will create a dynamic responsive boat website developed usi
 
 
 ## 📖 How to Download the Project and Run on your PC?
-### Pre-Requisites
+### Pre-Requisites....
 1. Download and Install XAMPP   [Apache Download](https://www.apachefriends.org/download.html)
 2. Install any Text Editor (Sublime text or Visual Studio Code )
 3. Download as a yip or clone this project
